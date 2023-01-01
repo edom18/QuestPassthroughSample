@@ -1,5 +1,7 @@
 # Quest Passthrough feature Sample
 
+![Sample Movie](images/sample-movie.gif)
+
 This project is a sample of the Quest passthrough feature.
 
 This includes below features.
